@@ -8,7 +8,7 @@
   <a href="mailto:chetaninjavarapu@gail.com">
     <img src="https://img.shields.io/badge/Email-chetaninjavarapu@gail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="tel:+18566195916">
+  <a href="tel:+18566195816">
     <img src="https://img.shields.io/badge/Call-+1%208566195916-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="https://chetan-957.github.io">
