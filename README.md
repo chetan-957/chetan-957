@@ -1,5 +1,5 @@
 # Chetan Sai Abhishek Injavarapu
-### Data Scientist | Machine Learning Engineer | Analytics Developer
+### Data Scientist | Data Analyst | Business Analyst | Data Engineer
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chetaninjavarapu/">
