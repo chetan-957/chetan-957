@@ -9,7 +9,7 @@ Building AI-driven systems that solve real-world business and infrastructure pro
   <a href="https://www.linkedin.com/in/chetaninjavarapu/">
     <img src="https://img.shields.io/badge/LinkedIn-chetaninjavarapu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your_email_here@gmail.com">
+  <a href="chetaninjavarapu@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://chetan-957.github.io">
