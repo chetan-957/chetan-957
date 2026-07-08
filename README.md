@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-chetaninjavarapu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:chetaninjavarapu@gail.com">
-    <img src="https://img.shields.io/badge/Email-chetaninjavarapu@gail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-chetaninjavarapu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="tel:+18566195816">
     <img src="https://img.shields.io/badge/Call-+1%208566195816-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
